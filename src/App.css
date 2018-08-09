@@ -1,5 +1,20 @@
 .App {
-  
+  background-color: #eee;
+  height: 100% !important;
+  width: 100% !important;
+  position: absolute;
 }
+
+.user-card {
+    height: 5rem;
+    width: 30rem;
+    background-color: white;
+    margin-left: 3rem;
+    box-shadow: 10px 5px 5px 2px;
+    margin-bottom: 1rem; 
+    margin-top: 1rem;
+}
+
+
 
 
